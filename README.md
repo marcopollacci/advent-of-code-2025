@@ -1,4 +1,4 @@
-# Advent of Code 2024
+# Advent of Code 2025
 
 This repository contains solutions for the Advent of Code 2025 challenges.
 
