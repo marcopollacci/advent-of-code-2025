@@ -1,0 +1,18 @@
+{
+  "name": "advent-of-code-2025",
+  "version": "1.0.0",
+  "main": "common.js",
+  "type": "module",
+  "scripts": {
+    "generate": "node generate.js",
+    "generate:day": "node generate.js",
+    "day-01-part-1": "DAY=01 nodemon day-01/part-1.js",
+    "day-01-part-2": "DAY=01 nodemon day-01/part-2.js"
+  },
+  "author": "Marco Pollacci",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
