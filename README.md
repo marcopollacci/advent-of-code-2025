@@ -1,6 +1,6 @@
 # Advent of Code 2024
 
-This repository contains solutions for the Advent of Code 2024 challenges.
+This repository contains solutions for the Advent of Code 2025 challenges.
 
 ## Project Structure
 
