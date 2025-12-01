@@ -25,9 +25,6 @@ for (let i = 0; i < initialArray.length; i++) {
         numberOfZeroPoints++;
       }
       if (currentDial < 0) {
-        if (currentDial === 0) {
-          numberOfZeroPoints++;
-        }
         currentDial = 99;
       }
     }
